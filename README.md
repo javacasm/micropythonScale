@@ -14,6 +14,8 @@ Sensor
 
 ![](https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/29/46/19c638e8-7989-4d7c-b091-c386ae251193.JPG.webp)
 
+![](https://www.allaboutcircuits.com/uploads/articles/Scale_Project_schematic.jpg)
+
 Kit
 
 ![](https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/14/2A/4ffb915a-f189-4ab4-966c-85b2077c8423.JPG.webp)
